@@ -1,5 +1,5 @@
 # login
-
+```npm install bootstrap
 ## Project setup
 ```
 npm install
